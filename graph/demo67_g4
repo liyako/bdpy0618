@@ -3,4 +3,7 @@ digraph {
 	B [label=Lexus]
 	C [label=Ford]
 	D [label=Nissan]
+	A -> B [label="same holding company"]
+	A -> C [label="popular company"]
+	B -> D [label="formula racing"]
 }
