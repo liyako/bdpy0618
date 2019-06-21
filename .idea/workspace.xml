@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6ffab19-d949-43c8-bdd6-f18ccb2145b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo103_SQL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo106.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo107.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6ffab19-d949-43c8-bdd6-f18ccb2145b3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,6 +154,11 @@
             <path>
               <item name="BDP27" type="b2602c69:ProjectViewProjectNode" />
               <item name="BDP27" type="462c0819:PsiDirectoryNode" />
+              <item name="day" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BDP27" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDP27" type="462c0819:PsiDirectoryNode" />
               <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -182,6 +180,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\BDP27\day" />
       <recent name="C:\Users\Admin\PycharmProjects\BDP27\data" />
       <recent name="C:\Users\Admin\PycharmProjects\BDP27" />
     </key>
@@ -434,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561021136786</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add new2 6/21">
+      <created>1561107376324</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1561107376324</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -448,14 +454,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2638889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2638889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992658" visible="true" weight="0.31215772" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992658" visible="true" weight="0.31215772" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -517,7 +522,8 @@
     <MESSAGE value="add new2 6/19-1" />
     <MESSAGE value="add new2 6/19-2" />
     <MESSAGE value="add new2 6/20" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new2 6/20" />
+    <MESSAGE value="add new2 6/21" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new2 6/21" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo72_3.py">
